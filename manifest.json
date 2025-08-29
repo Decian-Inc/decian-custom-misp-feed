@@ -4,7 +4,7 @@
   "download": true,
   "description": "Custom malicious IP addresses feed for threat intelligence",
   "name": "Custom Malicious IPs Feed",
-  "url": "https://github.com/YOUR_USERNAME/custom-misp-feed",
+  "url": "https://github.com/Decian-Inc/decian-custom-misp-feed",
   "format": "misp",
   "type": "freetext",
   "input_source": "custom",

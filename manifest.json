@@ -1,0 +1,20 @@
+{
+  "version": "2.4",
+  "generator": "Custom MISP Feed",
+  "download": true,
+  "description": "Custom malicious IP addresses feed for threat intelligence",
+  "name": "Custom Malicious IPs Feed",
+  "url": "https://github.com/YOUR_USERNAME/custom-misp-feed",
+  "format": "misp",
+  "type": "freetext",
+  "input_source": "custom",
+  "scope": "malicious-ips",
+  "distribution": 3,
+  "default_org": "Your Organization",
+  "valid_attribute_distribution_levels": [
+    0,
+    1,
+    2,
+    3
+  ]
+}

@@ -1,0 +1,19 @@
+value,type,category,to_ids,comment
+107.178.251.4,ip-dst,Network activity,true,Observed malicious IP - C2 infrastructure
+118.86.231.105,ip-dst,Network activity,true,Observed malicious IP - C2 infrastructure
+148.113.223.63,ip-dst,Network activity,true,Observed malicious IP - C2 infrastructure
+155.196.92.168,ip-dst,Network activity,true,Observed malicious IP - C2 infrastructure
+176.22.169.250,ip-dst,Network activity,true,Observed malicious IP - C2 infrastructure
+192.253.248.5,ip-dst,Network activity,true,Observed malicious IP - C2 infrastructure
+205.196.92.168,ip-dst,Network activity,true,Observed malicious IP - C2 infrastructure
+45.135.194.11,ip-dst,Network activity,true,Observed malicious IP - C2 infrastructure
+45.156.87.165,ip-dst,Network activity,true,Observed malicious IP - C2 infrastructure
+5.196.92.168,ip-dst,Network activity,true,Observed malicious IP - C2 infrastructure
+5.230.226.23,ip-dst,Network activity,true,Observed malicious IP - C2 infrastructure
+5.230.226.26,ip-dst,Network activity,true,Observed malicious IP - C2 infrastructure
+5.230.226.35,ip-dst,Network activity,true,Observed malicious IP - C2 infrastructure
+51.159.106.48,ip-dst,Network activity,true,Observed malicious IP - C2 infrastructure
+74.113.97.115,ip-dst,Network activity,true,Observed malicious IP - C2 infrastructure
+87.121.84.75,ip-dst,Network activity,true,Observed malicious IP - C2 infrastructure
+93.203.238.208,ip-dst,Network activity,true,Observed malicious IP - C2 infrastructure
+94.130.138.230,ip-dst,Network activity,true,Observed malicious IP - C2 infrastructure
